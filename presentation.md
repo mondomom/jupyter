@@ -7,6 +7,7 @@
  `source python_jupyter/bin/activate`
  * install necessary packages
  
- `pip install jupyerlab, pandas, matplotlib`
+ `pip install jupyerlab pandas matplotlib`
+ * run JupyterLab
  
  `jupyter lab`
